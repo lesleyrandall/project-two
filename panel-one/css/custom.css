@@ -1,0 +1,106 @@
+
+#carousel{
+    max-width:fit-content;
+    padding-bottom: 15%;
+}
+
+#pronounciation{
+    text-align: center;
+    text-decoration: underline olivedrab;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 3%;
+    background-color: cornsilk;
+}
+
+#introwords{
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+    text-align: center;
+    
+}
+
+#nicknames{
+    text-align: center;
+}
+
+#nicknametitle{
+    text-align: center;
+    text-decoration: underline olivedrab;
+    font-family: 'Shadows Into Light', cursive;
+    background-color: cornsilk;
+}
+
+#nameexplain{
+    padding-top: 5%;
+    padding-left: 2%;
+    padding-right: 3%;
+    padding-bottom: 5%;
+    text-align: center;
+    font: bolder;
+}
+
+#Biboone{
+    padding-right: 3%;
+    padding-bottom: 8%;
+    padding-top: 3%;
+}
+
+
+#slidewords{
+    padding-top: 30%;
+    padding-bottom: 20%;
+
+}
+
+#picstitle{
+    text-align: center;
+    text-decoration: underline olivedrab;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 3%;
+    background-color: cornsilk; 
+}
+
+#instagram{
+padding-top: 3%;
+padding-bottom: 2%;
+}
+
+#factstitle{
+    text-align: center;
+    text-decoration: underline olivedrab;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 2%;
+    background-color: cornsilk;   
+}
+
+
+#funfacts{
+    text-decoration: underline olivedrab;
+}
+
+#biboandles{
+height: 500px;
+width: 600px;
+padding-bottom: 5%;
+}
+
+#theowner{
+    text-align: center;
+    text-decoration: underline olivedrab;
+    font-family: 'Shadows Into Light', cursive;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    background-color: cornsilk;
+}
+
+#ownerwords{
+    text-align: left;
+    padding-top: 5%;
+    padding-right: 3;
+    padding-left: 3;
+    padding-bottom: 5%;
+}
+
+

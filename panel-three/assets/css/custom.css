@@ -1,0 +1,145 @@
+#highlightstitle{
+    color:darkseagreen;
+    font-family: 'Shadows Into Light';
+    text-decoration-line: underline;
+    border: 4px;
+       
+}
+
+#abouttitle{
+    color:darkseagreen;
+    font-family: 'Shadows Into Light';
+    text-decoration-line: underline;
+}
+
+#hometitle{
+    font-family: 'Ezcar';
+    
+}
+
+#navbar :hover{
+    color:darkseagreen;
+}
+
+#navbar{
+    color: white;
+}
+
+#availableforwalks :hover{
+    color: white;
+
+}
+
+#availableforwalks{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: beige;
+    
+}
+
+#bibocolorblock{
+    color:lightgoldenrodyellow
+}
+
+
+#background{
+    background-image: linear-gradient(to bottom, rgb(223, 223, 222), rgba(25, 132, 71, 0.714));
+}
+
+#aboutwords{
+    color:black;
+    
+}
+
+#highlightswords{
+    color:black;
+}
+
+#Bibo{
+    background-image: linear-gradient(to bottom, rgb(223, 223, 222), rgba(25, 132, 71, 0.714));
+    color: black;
+    
+}
+
+#gallery{
+    border: 5px solid beige;
+  border-radius: 30px;
+  padding: 2px;
+  width: 300px;
+}
+
+#whosbibo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color:darkslategrey;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#bibowords{
+   border: 1px;
+   border-style: solid;
+   border-color: seagreen;
+   padding-left: 3px;
+   padding-right: 3px;
+   color:black;
+   text-align: left;
+}
+
+#bullets{
+color: black;
+text-align: center;
+}
+
+#nicknames{
+    text-align: right;
+}
+
+#peoplesaying{
+    text-decoration: underline;
+    color:black;
+}
+
+#biboandlespic{
+    height: 275px;
+    width: 975px;
+    border: 5px solid beige;
+  border-radius: 30px;
+  padding: 2px;
+}
+
+#deftitle{
+    text-align: center;
+    font-family: 'Ezcar';
+    text-decoration: underline;
+    text-shadow: 6px;
+
+}
+
+#definition{
+    text-align: center;
+    color: black;
+    font-size: larger;
+    font-family: 'Bebas Neue'
+
+}
+
+#bibofront{
+    width:400px;
+    height: 500px;
+    object-fit:cover;
+    text-align: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid beige;
+  border-radius: 30px;
+  padding: 2px;
+}
+
+#hero{
+    
+}
+
+
+
